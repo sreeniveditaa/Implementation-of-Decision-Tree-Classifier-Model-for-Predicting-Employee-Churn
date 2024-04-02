@@ -49,12 +49,15 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 Head()
+
 ![Screenshot 2024-04-02 161207](https://github.com/sreeniveditaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147473268/356da883-9044-41ec-ab38-a3e7082bfbf1)
 
 accuracy:
+
 ![image](https://github.com/sreeniveditaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147473268/53861dbc-27a4-4dfd-a57e-18746460f614)
 
 Prediction:
+
 ![image](https://github.com/sreeniveditaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147473268/e98fe892-2a09-46dd-9b12-0868dbd849ec)
 
 
